@@ -23,7 +23,6 @@ else{
     console.log("company is not found")
 }
 
-//console.log(itCompanies.includes("oo"))
 //console.log(itCompanies.sort())
 //console.log(itCompanies.reverse())
 //console.log(itCompanies.slice(0,3))
